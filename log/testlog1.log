@@ -1,0 +1,4 @@
+2024-06-05 15:17:30,817 [main] INFO org.openqa.selenium.edge.EdgeDriver - username is entered
+2024-06-05 15:17:30,995 [main] INFO org.openqa.selenium.edge.EdgeDriver - password is entered
+2024-06-05 15:17:33,061 [main] INFO org.openqa.selenium.edge.EdgeDriver - login btn clicking activity is completed
+2024-06-05 15:17:33,078 [main] INFO org.openqa.selenium.edge.EdgeDriver - testcase is passed
